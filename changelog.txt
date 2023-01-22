@@ -1,0 +1,3 @@
+v3.0 Changelog:
+
+Added support for all the 1.16+ crafting blocks
