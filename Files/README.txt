@@ -1,5 +1,5 @@
-To install this extension, open Notepad++ and go to Language -> User Defined Language -> Define Your Language... -> Import and select highlighter_new.xml
+To install this extension, open Notepad++ and go to Language -> User Defined Language -> Define Your Language... -> Import and select whichever file(s) you want to use.
 
-It should import as ZenScript 1.14+, and must be manually selected from the User Defined Language drop-down when a ZenScript file is open.
+It will import with the proper version label. You might need to manually selected from the User Defined Language drop-down though.
 
-I don't think it's possible to have it auto-select when opening a .zs file, but if you know how let me know.
+It should auto-select when opening a .zs file, but if it's not working let me know (and if you know how to fix it, please tell me).
